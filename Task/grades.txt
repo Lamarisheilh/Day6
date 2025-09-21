@@ -1,0 +1,3 @@
+Name: lamar, ID: 7622, Grades: [90, 80, 70], GPA: 80.0
+Name: raya, ID: 28288, Grades: [80, 79, 89], GPA: 82.66666666666667
+Name: mohammad, ID: 3878, Grades: [80, 90, 60], GPA: 76.66666666666667
